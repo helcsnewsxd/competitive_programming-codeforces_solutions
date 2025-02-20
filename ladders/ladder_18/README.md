@@ -2,6 +2,6 @@
 
 The ladder can be found [here](https://a2oj.netlify.app/ladder18).
 
-| ID  | Problem Name    | Difficulty Level | Tags                                       | Files                                                  |
-| --- | --------------- | ---------------- | ------------------------------------------ | ------------------------------------------------------ |
-| 1   | Sereja and Dima | 1                | `Greedy`, `Implementation`, `Two pointers` | [Solution](./1/README.md) and [Code](./1/solution.cpp) |
+| ID  | Problem Name    | Difficulty Level | Tags                                       | Folder           |
+| --- | --------------- | ---------------- | ------------------------------------------ | ---------------- |
+| 1   | Sereja and Dima | 1                | `Greedy`, `Implementation`, `Two pointers` | [Solution](./1/) |
