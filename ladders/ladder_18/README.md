@@ -11,3 +11,4 @@ The ladder can be found [here](https://a2oj.netlify.app/ladder18).
 | 5   | Fox And Snake                | 1                | `Implementation`                            | [Solution](./5/) |
 | 6   | inc ARG                      | 2                | `Implementation`                            | [Solution](./6/) |
 | 7   | Caisa and Pylons             | 2                | `Brute force`, `Implementation`, `Math`     | [Solution](./7/) |
+| 8   | Puzzles                      | 2                | `Greedy`                                    | [Solution](./8/) |
