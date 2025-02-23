@@ -8,3 +8,4 @@ The ladder can be found [here](https://a2oj.netlify.app/ladder18).
 | 2   | Gravity Flip                 | 1                | `Greedy`, `Implementation`, `Sortings`      | [Solution](./2/) |
 | 3   | Little Pony and Crystal Mine | 1                | `Implementation`                            | [Solution](./3/) |
 | 4   | Anton and Letters            | 1                | `Constructive algorithms`, `Implementation` | [Solution](./4/) |
+| 5   | Fox And Snake                | 1                | `Implementation`                            | [Solution](./5/) |
