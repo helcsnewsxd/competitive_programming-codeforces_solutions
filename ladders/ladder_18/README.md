@@ -13,3 +13,4 @@ The ladder can be found [here](https://a2oj.netlify.app/ladder18).
 | 7   | Caisa and Pylons             | 2                | `Brute force`, `Implementation`, `Math`     | [Solution](./007/) |
 | 8   | Puzzles                      | 2                | `Greedy`                                    | [Solution](./008/) |
 | 9   | Chat room                    | 2                | `Greedy`, `Strings`                         | [Solution](./009/) |
+| 10  | Vasya and Socks              | 2                | `Brute force`, `Implamentation`, `Math`     | [Solution](./010/) |
