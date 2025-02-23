@@ -15,3 +15,4 @@ The ladder can be found [here](https://a2oj.netlify.app/ladder18).
 | 9   | Chat room                    | 2                | `Greedy`, `Strings`                         | [Solution](./009/)         |
 | 10  | Vasya and Socks              | 2                | `Brute force`, `Implementation`, `Math`     | [Solution](./010/)         |
 | 11  | I Wanna Be the Guy           | 2                |                                             | `Greedy`, `Implamentation` | [Solution](./011/) |
+| 12  | Expression                   | 2                | `Brute force`, `Math`                       | [Solution](./012/)         |
