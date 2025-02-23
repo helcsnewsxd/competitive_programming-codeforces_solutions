@@ -5,3 +5,5 @@ Now, other thing to notice is that isn't important if I distribute the added hei
 Therefore, the checker is very easy to do.
 
 Since $n\leq 10^5$ and the maximum value is $m\leq 10^5$, then the complexity is $O(n \log(m))=O(n \log(n))$.
+
+The code can be found [here](./solution.cpp).
