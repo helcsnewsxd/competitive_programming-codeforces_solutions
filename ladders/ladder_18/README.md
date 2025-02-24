@@ -17,3 +17,4 @@ The ladder can be found [here](https://a2oj.netlify.app/ladder18).
 | 11  | I Wanna Be the Guy           | 2                | `Greedy`, `Implamentation`                               | [Solution](./011/) |
 | 12  | Expression                   | 2                | `Brute force`, `Math`                                    | [Solution](./012/) |
 | 13  | Counterexample               | 3                | `Brute force`, `Implementation`, `Math`, `Number theory` | [Solution](./013/) |
+| 14  | Flipping Game                | 3                | `Brute force`, `dp`, `Implementation`                    | [Solution](./014/) |
