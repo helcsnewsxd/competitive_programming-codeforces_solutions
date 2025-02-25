@@ -10,9 +10,11 @@ int main() {
   cin >> x1 >> y1 >> x2 >> y2;
 
   if (x1 == x2) {
-    cout << x1 + 1 << ' ' << y1 << ' ' << x2 + 1 << ' ' << y2 << '\n';
+    int diff = abs(y2 - y1);
+    cout << x1 + diff << ' ' << y1 << ' ' << x2 + diff << ' ' << y2 << '\n';
   } else if (y1 == y2) {
-    cout << x1 << ' ' << y1 + 1 << ' ' << x2 << ' ' << y2 + 1 << '\n';
+    int diff = abs(x2 - x1);
+    cout << x1 << ' ' << y1 + diff << ' ' << x2 << ' ' << y2 + diff << '\n';
   } else if (abs(x2 - x1) != abs(y2 - y1)) {
     cout << "-1\n";
   } else {
