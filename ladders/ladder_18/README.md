@@ -19,3 +19,4 @@ The ladder can be found [here](https://a2oj.netlify.app/ladder18).
 | 13  | Counterexample               | 3                | `Brute force`, `Implementation`, `Math`, `Number theory` | [Solution](./013/) |
 | 14  | Flipping Game                | 3                | `Brute force`, `dp`, `Implementation`                    | [Solution](./014/) |
 | 15  | Pashmak and Garden           | 3                | `Implementation`                                         | [Solution](./015/) |
+| 16  | Ilya and Queries             | 3                | `dp`,`Implementation`                                    | [Solution](./16/)  |
