@@ -18,3 +18,4 @@ The ladder can be found [here](https://a2oj.netlify.app/ladder18).
 | 12  | Expression                   | 2                | `Brute force`, `Math`                                    | [Solution](./012/) |
 | 13  | Counterexample               | 3                | `Brute force`, `Implementation`, `Math`, `Number theory` | [Solution](./013/) |
 | 14  | Flipping Game                | 3                | `Brute force`, `dp`, `Implementation`                    | [Solution](./014/) |
+| 15  | Pashmak and Garden           | 3                | `Implementation`                                         | [Solution](./015/) |
