@@ -27,3 +27,4 @@ The ladder can be found [here](https://a2oj.netlify.app/ladder18).
 | 21  | Writing Code                     | 4                | `dp`                                                                             | [Solution](./021/) |
 | 22  | Tennis Game                      | 4                | `Binary search`                                                                  | [Solution](./022/) |
 | 23  | Towers                           | 4                | `Brute force`, `Constructive algorithms`, `Greedy`, `Implementation`, `Sortings` | [Solution](./023/) |
+| 24  | Ryouko's Memory Note             | 4                | `Implementation`, `Math`, `Sortings`                                             | [Solution](./024/) |
