@@ -4,11 +4,11 @@ I think that I solved this [problem](https://codeforces.com/problemset/problem/4
 
 I was thinking about the condition and it's obvious to see that the result is, for selected probabilities $p_1,\dots, p_k$:
 
-$$(1-p_1)\cdot (1-p_2)\cdot\dots\cdot p_k + \cdot + (1-p_1)\cdot p_2\cdot\dots\cdot (1-p_k)+p_1\cdot(1-p_2)\cdot\dots\cdot(1-p_k)$$
-$$(1-p_1)\cdot(1-p_2)\cdot\dots\cdot[1-(1-p_k)]+\cdot+[1-(1-p_1)]\cdot(1-p_2)\cdot\dots\cdot(1-p_k)$$
-$$(1-p_1)\cdot\dots\cdot(1-p_{k-1})+\dots+(1-p_1)\cdot(1-p_3)\cdot\dots(1-p_k)+(1-p_2)\cdot\dots\cdot(1-p_k)-k\cdot\prod_{i=1}^k (1-p_i)$$
-$$\sum_{j=1}^k \frac{\prod_{i=1}^j (1-p_i)}{1-p_j}-k\cdot\prod_{i=1}^k (1-p_i)$$
-$$\prod_{i=1}^k (1-p_i)\cdot(\sum_{j=1}^k\frac{1}{1-p_j}-k)$$
+$$(1-p_1)\times (1-p_2)\times\dots\times p_k + \times + (1-p_1)\times p_2\times\dots\times (1-p_k)+p_1\times(1-p_2)\times\dots\times(1-p_k)$$
+$$(1-p_1)\times(1-p_2)\times\dots\times[1-(1-p_k)]+\times+[1-(1-p_1)]\times(1-p_2)\times\dots\times(1-p_k)$$
+$$(1-p_1)\times\dots\times(1-p_{k-1})+\dots+(1-p_1)\times(1-p_3)\times\dots(1-p_k)+(1-p_2)\times\dots\times(1-p_k)-k\times\prod_{i=1}^k (1-p_i)$$
+$$\sum_{j=1}^k \frac{\prod_{i=1}^j (1-p_i)}{1-p_j}-k\times\prod_{i=1}^k (1-p_i)$$
+$$\prod_{i=1}^k (1-p_i)\times(\sum_{j=1}^k\frac{1}{1-p_j}-k)$$
 
 Then, I did a [bruteforce solution](./solution.cpp) to see if exists a pattern in the solution and I tested it with this [generator](./gen.py).
 With that, I was able to notice that:
