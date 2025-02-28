@@ -10,7 +10,7 @@ $$(1-p_1)\times\dots\times(1-p_{k-1})+\dots+(1-p_1)\times(1-p_3)\times\dots(1-p_
 $$\sum_{j=1}^k \frac{\prod_{i=1}^j (1-p_i)}{1-p_j}-k\times\prod_{i=1}^k (1-p_i)$$
 $$\prod_{i=1}^k (1-p_i)\times(\sum_{j=1}^k\frac{1}{1-p_j}-k)$$
 
-Then, I did a [bruteforce solution](./solution.cpp) to see if exists a pattern in the solution and I tested it with this [generator](./gen.py).
+Then, I did a [bruteforce solution](./brute.cpp) to see if exists a pattern in the solution and I tested it with this [generator](./gen.py).
 With that, I was able to notice that:
 
 - If there is any probability greater or equal to $0.5$, then the solution is the maximum probability
