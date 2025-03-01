@@ -1,7 +1,7 @@
 # Password
 
 In this [problem](https://codeforces.com/problemset/problem/126/B), the idea is to use a string algorithm about substring searching. This algorithm is called Z-Function.
-With Z-function I've in $O(n)$ the following values for $i$ from $0$ to $n-1$: $z[i] = max\{k : s[0..k) == s[i..i+k)\}$.
+With Z-function I've in $O(n)$ the following values for $i$ from $0$ to $n-1$: $z[i] = max\left\lbrace k : s[0..k) = s[i..i+k)\rbrace\right$.
 Then, I'm able to calculate the substring with maximum length that is a prefix, a suffix and a middle word of $s$.
 
 The idea to calculate this substring is use the values of $z$.
