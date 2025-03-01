@@ -30,3 +30,4 @@ The ladder can be found [here](https://a2oj.netlify.app/ladder18).
 | 24  | Ryouko's Memory Note             | 4                | `Implementation`, `Math`, `Sortings`                                             | [Solution](./024/) |
 | 25  | Knight Tournament                | 4                | `Data structures`, `dsu`                                                         | [Solution](./025/) |
 | 26  | Andrey and Problem               | 4                | `Greedy`, `Math`, `Probabilities`                                                | [Solution](./026/) |
+| 27  | Password                         | 4                | `Binary search`, `dp`, `Hashing`, `String suffix structures`, `Strings`          | [Solution](./027/) |
