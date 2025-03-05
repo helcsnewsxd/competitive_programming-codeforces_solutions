@@ -31,3 +31,4 @@ The ladder can be found [here](https://a2oj.netlify.app/ladder18).
 | 25  | Knight Tournament                | 4                | `Data structures`, `dsu`                                                         | [Solution](./025/) |
 | 26  | Andrey and Problem               | 4                | `Greedy`, `Math`, `Probabilities`                                                | [Solution](./026/) |
 | 27  | Password                         | 4                | `Binary search`, `dp`, `Hashing`, `String suffix structures`, `Strings`          | [Solution](./027/) |
+| 28  | Interesting Array                | 4                | `Constructive algorithms`, `Data structures`, `Trees`                            | [Solution](./028/) |
